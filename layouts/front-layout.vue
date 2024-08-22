@@ -1,11 +1,23 @@
 <script setup lang="ts">
 
+
 </script>
 
+
 <template>
-  $END$
+
+  <front-header />
+
+  <NuxtPage />
+
+  <front-footer />
+
+
 </template>
 
+
 <style scoped>
+
+
 
 </style>

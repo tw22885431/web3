@@ -1,9 +1,13 @@
 <script setup lang="ts">
 
+definePageMeta({
+  layout: 'front-layout'
+})
+
 </script>
 
 <template>
-  $END$
+
 </template>
 
 <style scoped>
