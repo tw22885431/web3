@@ -21,7 +21,7 @@ async function signUp() {
       password: password.value,
       options: {
         data: {
-          name: `${firstName.value} ${lastName.value}`,
+          name: `${firstName.value}` + `${lastName.value}`,
         }
       }
     });
